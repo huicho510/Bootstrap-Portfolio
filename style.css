@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  html {background-color:lightsteelblue;
+    font-family: 'Arial', open-sans;
+  }
+  
+  body {
+    margin: 0;
+  }
+  #style {
+    background-color:lightsteelblue;
+  
+  }
+  
+  @media screen and (max-width: 640px ) {
+
+  }
+    
+    @media screen and (max-width: 768px ) {
+     
+        @media screen and (max-width: 980x ) {
+       
+        }          
+
+  }
+
